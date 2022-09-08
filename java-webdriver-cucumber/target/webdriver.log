@@ -1,0 +1,351 @@
+INFO 13:23:52:770 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 102.0.5005.61 (since Chrome 102 is installed in your machine)
+INFO 13:23:52:785 wdm.WebDriverManager logSeekRepo:882 Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+INFO 13:23:53:009 online.Downloader downloadAndExtract:124 Downloading https://chromedriver.storage.googleapis.com/102.0.5005.61/chromedriver_win32.zip
+INFO 13:23:53:395 online.Downloader extract:178 Extracting binary from compressed file chromedriver_win32.zip
+INFO 13:23:53:475 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\102.0.5005.61\chromedriver.exe
+INFO 13:28:34:274 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 102.0.5005.61 (since Chrome 102 is installed in your machine)
+INFO 13:28:34:291 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\102.0.5005.61\chromedriver.exe
+INFO 13:33:56:639 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 102.0.5005.61 (since Chrome 102 is installed in your machine)
+INFO 13:33:56:654 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\102.0.5005.61\chromedriver.exe
+INFO 13:35:54:136 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 102.0.5005.61 (since Chrome 102 is installed in your machine)
+INFO 13:35:54:151 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\102.0.5005.61\chromedriver.exe
+INFO 13:35:57:542 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 102.0.5005.61 (since Chrome 102 is installed in your machine)
+INFO 13:35:57:545 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\102.0.5005.61\chromedriver.exe
+INFO 13:36:00:342 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 102.0.5005.61 (since Chrome 102 is installed in your machine)
+INFO 13:36:00:344 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\102.0.5005.61\chromedriver.exe
+INFO 13:38:39:403 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 102.0.5005.61 (since Chrome 102 is installed in your machine)
+INFO 13:38:39:433 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\102.0.5005.61\chromedriver.exe
+INFO 13:40:30:090 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 102.0.5005.61 (since Chrome 102 is installed in your machine)
+INFO 13:40:30:103 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\102.0.5005.61\chromedriver.exe
+INFO 13:40:33:297 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 102.0.5005.61 (since Chrome 102 is installed in your machine)
+INFO 13:40:33:300 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\102.0.5005.61\chromedriver.exe
+INFO 13:40:35:865 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 102.0.5005.61 (since Chrome 102 is installed in your machine)
+INFO 13:40:35:868 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\102.0.5005.61\chromedriver.exe
+INFO 21:09:21:562 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 103.0.5060.134 (since Chrome 103 is installed in your machine)
+INFO 21:09:21:579 wdm.WebDriverManager logSeekRepo:882 Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+INFO 21:09:21:828 online.Downloader downloadAndExtract:124 Downloading https://chromedriver.storage.googleapis.com/103.0.5060.134/chromedriver_win32.zip
+INFO 21:09:22:416 online.Downloader extract:178 Extracting binary from compressed file chromedriver_win32.zip
+INFO 21:09:22:502 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\103.0.5060.134\chromedriver.exe
+INFO 21:17:35:125 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 103.0.5060.134 (since Chrome 103 is installed in your machine)
+INFO 21:17:35:140 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\103.0.5060.134\chromedriver.exe
+INFO 21:36:14:342 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 103.0.5060.134 (since Chrome 103 is installed in your machine)
+INFO 21:36:14:356 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\103.0.5060.134\chromedriver.exe
+INFO 21:36:17:481 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 103.0.5060.134 (since Chrome 103 is installed in your machine)
+INFO 21:36:17:483 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\103.0.5060.134\chromedriver.exe
+INFO 21:38:11:858 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 103.0.5060.134 (since Chrome 103 is installed in your machine)
+INFO 21:38:11:872 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\103.0.5060.134\chromedriver.exe
+INFO 21:38:15:053 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 103.0.5060.134 (since Chrome 103 is installed in your machine)
+INFO 21:38:15:055 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\103.0.5060.134\chromedriver.exe
+INFO 21:53:56:659 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 103.0.5060.134 (since Chrome 103 is installed in your machine)
+INFO 21:53:56:675 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\103.0.5060.134\chromedriver.exe
+INFO 21:53:59:834 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 103.0.5060.134 (since Chrome 103 is installed in your machine)
+INFO 21:53:59:837 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\103.0.5060.134\chromedriver.exe
+INFO 21:54:03:880 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 103.0.5060.134 (since Chrome 103 is installed in your machine)
+INFO 21:54:03:884 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\103.0.5060.134\chromedriver.exe
+INFO 21:58:00:914 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 103.0.5060.134 (since Chrome 103 is installed in your machine)
+INFO 21:58:00:930 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\103.0.5060.134\chromedriver.exe
+INFO 21:59:40:534 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 103.0.5060.134 (since Chrome 103 is installed in your machine)
+INFO 21:59:40:551 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\103.0.5060.134\chromedriver.exe
+INFO 22:03:09:166 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 103.0.5060.134 (since Chrome 103 is installed in your machine)
+INFO 22:03:09:181 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\103.0.5060.134\chromedriver.exe
+INFO 22:03:43:838 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 103.0.5060.134 (since Chrome 103 is installed in your machine)
+INFO 22:03:43:853 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\103.0.5060.134\chromedriver.exe
+INFO 22:03:57:639 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 103.0.5060.134 (since Chrome 103 is installed in your machine)
+INFO 22:03:57:653 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\103.0.5060.134\chromedriver.exe
+INFO 22:04:00:815 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 103.0.5060.134 (since Chrome 103 is installed in your machine)
+INFO 22:04:00:817 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\103.0.5060.134\chromedriver.exe
+INFO 22:04:04:560 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 103.0.5060.134 (since Chrome 103 is installed in your machine)
+INFO 22:04:04:563 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\103.0.5060.134\chromedriver.exe
+INFO 12:50:10:330 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 12:50:10:350 wdm.WebDriverManager logSeekRepo:882 Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+INFO 12:50:10:659 online.Downloader downloadAndExtract:124 Downloading https://chromedriver.storage.googleapis.com/104.0.5112.79/chromedriver_win32.zip
+INFO 12:50:11:119 online.Downloader extract:178 Extracting binary from compressed file chromedriver_win32.zip
+INFO 12:50:11:203 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 12:53:12:916 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 12:53:12:933 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 12:58:43:580 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 12:58:43:596 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 13:01:09:630 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 13:01:09:646 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 13:08:11:894 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 13:08:11:910 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 13:11:28:274 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 13:11:28:290 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 13:19:48:058 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 13:19:48:073 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 13:22:20:380 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 13:22:20:396 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 13:23:45:250 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 13:23:45:265 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 13:25:14:103 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 13:25:14:119 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 13:27:01:955 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 13:27:01:971 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 13:29:37:120 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 13:29:37:136 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 13:32:59:869 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 13:32:59:885 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 13:34:11:385 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 13:34:11:400 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 13:36:57:942 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 13:36:57:959 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 13:39:43:642 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 13:39:43:658 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 13:42:49:111 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 13:42:49:126 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 13:45:27:671 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 13:45:27:686 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 13:47:12:982 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 13:47:12:998 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 13:49:45:435 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 13:49:45:450 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 13:50:30:226 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 13:50:30:245 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 13:52:04:793 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 13:52:04:808 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 13:53:45:085 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 13:53:45:101 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 13:56:39:347 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 13:56:39:363 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 13:58:09:548 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 13:58:09:563 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 14:01:34:552 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 14:01:34:568 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 14:03:36:405 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 14:03:36:420 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 14:05:32:115 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 14:05:32:131 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 14:07:37:406 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 14:07:37:422 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 14:08:43:082 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 14:08:43:098 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 14:27:33:766 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 14:27:33:781 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 14:29:31:529 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 14:29:31:544 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 14:33:52:542 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 14:33:52:557 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 14:35:28:616 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 14:35:28:632 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 14:38:41:753 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 14:38:41:768 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 15:18:22:705 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 15:18:22:724 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 15:18:45:029 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 15:18:45:032 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 15:21:59:869 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 15:21:59:885 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 15:22:18:773 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 15:22:18:775 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 15:25:33:916 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 15:25:33:932 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 15:28:27:138 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 15:28:27:154 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 15:30:18:789 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 15:30:18:805 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 15:30:41:677 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 15:30:41:680 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 15:55:55:723 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 15:55:55:739 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 15:56:22:852 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 15:56:22:869 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 16:01:28:963 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 16:01:28:979 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 16:04:52:008 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 16:04:52:023 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 16:09:06:345 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 16:09:06:361 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 16:14:12:532 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 16:14:12:549 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 16:16:02:620 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 16:16:02:635 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 16:18:40:340 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 16:18:40:356 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 16:21:15:318 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 16:21:15:333 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 16:22:17:155 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 16:22:17:171 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 16:22:54:446 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 16:22:54:462 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 16:23:17:779 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 16:23:17:782 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 16:23:40:723 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 16:23:40:727 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 16:24:03:535 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 16:24:03:537 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 16:24:26:222 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 16:24:26:225 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 16:24:49:102 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 16:24:49:104 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 00:26:03:418 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 00:26:03:437 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 00:26:36:976 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 00:26:36:992 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 00:29:25:883 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 00:29:25:899 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 00:34:15:769 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 00:34:15:785 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 00:36:18:659 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 00:36:18:675 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 00:39:36:144 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 00:39:36:159 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 00:40:28:430 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 00:40:28:445 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 01:29:43:405 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 01:29:43:419 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 01:34:03:582 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 01:34:03:599 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 01:34:24:420 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 01:34:24:424 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 01:34:44:965 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 01:34:44:968 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 01:35:05:523 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 01:35:05:525 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 01:35:25:932 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 01:35:25:935 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 01:35:46:365 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 01:35:46:368 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 01:52:51:641 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 01:52:51:657 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 16:07:41:432 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 16:07:41:449 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 16:09:06:634 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 16:09:06:649 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 16:10:53:670 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 16:10:53:688 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 16:12:20:239 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 16:12:20:255 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 16:16:34:202 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 16:16:34:218 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 16:19:38:145 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 16:19:38:161 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 16:25:11:304 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 16:25:11:320 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 22:35:16:804 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 22:35:16:824 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 22:39:10:055 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 22:39:10:071 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 22:40:52:914 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 22:40:52:930 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 22:45:46:860 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 22:45:46:875 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 22:48:05:336 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 22:48:05:350 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 22:54:30:473 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 22:54:30:488 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 23:04:52:227 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 23:04:52:242 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 23:14:59:590 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 23:14:59:607 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 23:21:18:158 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 23:21:18:174 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 23:26:51:966 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 23:26:51:982 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 01:49:56:669 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 01:49:56:685 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 01:51:26:644 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 01:51:26:665 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 01:53:21:636 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 01:53:21:652 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 01:54:52:938 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 01:54:52:953 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 14:51:43:843 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 14:51:43:860 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 14:53:45:944 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 14:53:45:959 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 14:57:55:241 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 14:57:55:257 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 14:59:07:228 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 14:59:07:243 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 15:04:43:140 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 15:04:43:156 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 15:07:30:909 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 15:07:30:925 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 15:18:15:243 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 15:18:15:258 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 15:19:52:652 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 15:19:52:668 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 15:27:09:095 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 15:27:09:111 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 15:32:28:737 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 15:32:28:753 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 16:25:49:351 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 16:25:49:369 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 16:29:34:920 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 16:29:34:937 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 16:30:58:683 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 16:30:58:698 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 16:32:19:030 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 16:32:19:046 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 16:34:08:235 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 16:34:08:251 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 16:35:25:060 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 16:35:25:075 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 16:36:26:451 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 16:36:26:467 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 16:38:26:567 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 16:38:26:583 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 16:39:53:568 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 16:39:53:584 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 16:40:39:988 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 16:40:40:004 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 12:34:04:162 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 12:34:04:181 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 12:54:18:827 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 12:54:18:842 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 12:54:46:047 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 12:54:46:051 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 12:55:27:925 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 12:55:27:940 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 14:06:20:607 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 14:06:20:627 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 16:05:35:721 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 16:05:35:738 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 16:11:44:727 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 16:11:44:742 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 16:12:57:198 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 16:12:57:214 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 16:15:44:215 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 16:15:44:231 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 11:13:56:925 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 11:13:56:941 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 11:14:12:510 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 11:14:12:513 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 11:14:26:485 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 11:14:26:488 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 11:15:01:849 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 11:15:01:852 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 11:15:28:646 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 11:15:28:649 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 23:39:05:820 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 23:39:05:840 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 23:40:09:335 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 23:40:09:351 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 23:42:34:778 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 23:42:34:792 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 23:50:55:903 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 23:50:55:918 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 23:52:35:575 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 23:52:35:591 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 23:56:27:922 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 23:56:27:937 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 23:56:52:676 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 23:56:52:679 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 23:57:16:985 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 23:57:16:988 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 23:57:41:358 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 23:57:41:361 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 23:58:05:663 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 23:58:05:665 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 23:58:29:985 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 23:58:29:988 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 00:09:47:042 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 00:09:47:059 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 13:50:38:583 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 13:50:38:600 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 13:59:18:545 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 13:59:18:562 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 13:59:27:248 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 13:59:27:251 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+INFO 13:59:36:479 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 13:59:36:482 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as C:\Users\Kostya\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
