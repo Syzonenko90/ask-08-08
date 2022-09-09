@@ -1,0 +1,1048 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2022-08-19T20:22:53.785Z",
+        "before": [
+          {
+            "result": {
+              "duration": 1908845600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.scenarioStart()"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "1",
+        "description": "",
+        "id": "create-assignement-students;1",
+        "after": [
+          {
+            "result": {
+              "duration": 602836500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.scenarioEnd(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 701761500,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I open page \"http://ask-stage.portnov.com/\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"http://ask-stage.portnov.com/\"",
+                  "offset": 12
+                }
+              ],
+              "location": "Create_Assignment_Students_StepDefs.iOpen(String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2193681700,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I log in as Teacher",
+            "match": {
+              "location": "Create_Assignment_Students_StepDefs.iLogInAsTeacher()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 12074406700,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I assign Test quiz single-choice and multiple-choice questions: FAILED to Student",
+            "match": {
+              "location": "Create_Assignment_Students_StepDefs.iAssignQuizToStudentSingleChoiceAndMultipleChoiceQuestions()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3156029000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I log in as Student",
+            "match": {
+              "location": "Create_Assignment_Students_StepDefs.iLogInAsStudent()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2061162900,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I click My Assigments button",
+            "match": {
+              "location": "Create_Assignment_Students_StepDefs.iClickMyAssigmentsButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 56393200,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I click Go to Assessment button",
+            "match": {
+              "location": "Create_Assignment_Students_StepDefs.iClickGoToAssessmentButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 37383200,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I select Incorrect radio button for Question 1",
+            "match": {
+              "location": "Create_Assignment_Students_StepDefs.iSelectIncorrectRadioButtonForQuestion()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 36654500,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "I select Incorrect check-box for Question 2",
+            "match": {
+              "location": "Create_Assignment_Students_StepDefs.iSelectIncorrectCheckBoxForQuestion()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1048984400,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I click Submit my Answer button",
+            "match": {
+              "location": "Create_Assignment_Students_StepDefs.iClickSubmitMyAnswerButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 44515000,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "I click My Grades button",
+            "match": {
+              "location": "Create_Assignment_Students_StepDefs.iClickMyGradesButton()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 28333900,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "I should see Quiz single-choice and multiple-choice questions graded automaticaly and Status: FAILED",
+            "match": {
+              "location": "Create_Assignment_Students_StepDefs.iShouldSeeQuizGradedAutomaticalyAndStatus()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@CreateAssignementStudents"
+          },
+          {
+            "name": "@Quiz_with_multiple-choice_question_graded_automatically:FAILED"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-08-19T20:23:17.771Z",
+        "before": [
+          {
+            "result": {
+              "duration": 1004120100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.scenarioStart()"
+            }
+          }
+        ],
+        "line": 18,
+        "name": "2",
+        "description": "",
+        "id": "create-assignement-students;2",
+        "after": [
+          {
+            "result": {
+              "duration": 606316100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.scenarioEnd(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 507246500,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "I open page \"http://ask-stage.portnov.com/\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"http://ask-stage.portnov.com/\"",
+                  "offset": 12
+                }
+              ],
+              "location": "Create_Assignment_Students_StepDefs.iOpen(String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2185774400,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "I log in as Teacher",
+            "match": {
+              "location": "Create_Assignment_Students_StepDefs.iLogInAsTeacher()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 12151381400,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "I assign Test quiz single-choice and multiple-choice questions: PASSED to Student",
+            "match": {
+              "location": "Create_Assignment_Students_StepDefs.iAssignTestQuizSingleChoiceAndMultipleChoicePASSEDQuestionsToStudent()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3160967500,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "I log in as Student",
+            "match": {
+              "location": "Create_Assignment_Students_StepDefs.iLogInAsStudent()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2053417000,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "I click My Assigments button",
+            "match": {
+              "location": "Create_Assignment_Students_StepDefs.iClickMyAssigmentsButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 59803900,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "I click Go to Assessment button",
+            "match": {
+              "location": "Create_Assignment_Students_StepDefs.iClickGoToAssessmentButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 34980300,
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "I select Correct radio button for Question 1",
+            "match": {
+              "location": "Create_Assignment_Students_StepDefs.iSelectCorrectRadioButtonForQuestion()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 37637700,
+              "status": "passed"
+            },
+            "line": 26,
+            "name": "I select Correct check-box for Question 2",
+            "match": {
+              "location": "Create_Assignment_Students_StepDefs.iSelectCorrectCheckBoxForQuestion()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1049276900,
+              "status": "passed"
+            },
+            "line": 27,
+            "name": "I click Submit my Answer button",
+            "match": {
+              "location": "Create_Assignment_Students_StepDefs.iClickSubmitMyAnswerButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 58492800,
+              "status": "passed"
+            },
+            "line": 28,
+            "name": "I click My Grades button",
+            "match": {
+              "location": "Create_Assignment_Students_StepDefs.iClickMyGradesButton()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 28202100,
+              "status": "passed"
+            },
+            "line": 29,
+            "name": "I should see Quiz single-choice and multiple-choice questions graded automaticaly and Status: PASSED",
+            "match": {
+              "location": "Create_Assignment_Students_StepDefs.iShouldSeeQuizSingleChoiceAndMultipleChoiceQuestionsGradedAutomaticalyAndStatusPASSED()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@CreateAssignementStudents"
+          },
+          {
+            "name": "@Quiz_with_multiple-choice_question_graded_automatically:PASS"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-08-19T20:23:40.714Z",
+        "before": [
+          {
+            "result": {
+              "duration": 1017329800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.scenarioStart()"
+            }
+          }
+        ],
+        "line": 32,
+        "name": "3",
+        "description": "",
+        "id": "create-assignement-students;3",
+        "after": [
+          {
+            "result": {
+              "duration": 599678000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.scenarioEnd(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 475754700,
+              "status": "passed"
+            },
+            "line": 33,
+            "name": "I open page \"http://ask-stage.portnov.com/\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"http://ask-stage.portnov.com/\"",
+                  "offset": 12
+                }
+              ],
+              "location": "Create_Assignment_Students_StepDefs.iOpen(String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2169151400,
+              "status": "passed"
+            },
+            "line": 34,
+            "name": "I log in as Teacher",
+            "match": {
+              "location": "Create_Assignment_Students_StepDefs.iLogInAsTeacher()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 12117784200,
+              "status": "passed"
+            },
+            "line": 35,
+            "name": "I assign Test quiz single-choice question: FAILED to Student",
+            "match": {
+              "location": "Create_Assignment_Students_StepDefs.iAssignTestQuizSingleChoiceQuestionFAILEDToStudent()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3162275300,
+              "status": "passed"
+            },
+            "line": 36,
+            "name": "I log in as Student",
+            "match": {
+              "location": "Create_Assignment_Students_StepDefs.iLogInAsStudent()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2045138400,
+              "status": "passed"
+            },
+            "line": 37,
+            "name": "I click My Assigments button",
+            "match": {
+              "location": "Create_Assignment_Students_StepDefs.iClickMyAssigmentsButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 48830000,
+              "status": "passed"
+            },
+            "line": 38,
+            "name": "I click Go to Assessment button",
+            "match": {
+              "location": "Create_Assignment_Students_StepDefs.iClickGoToAssessmentButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 36848600,
+              "status": "passed"
+            },
+            "line": 39,
+            "name": "I select Incorrect radio button for Question 1",
+            "match": {
+              "location": "Create_Assignment_Students_StepDefs.iSelectIncorrectRadioButtonForQuestion()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1060593700,
+              "status": "passed"
+            },
+            "line": 40,
+            "name": "I click Submit my Answer button",
+            "match": {
+              "location": "Create_Assignment_Students_StepDefs.iClickSubmitMyAnswerButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 43405300,
+              "status": "passed"
+            },
+            "line": 41,
+            "name": "I click My Grades button",
+            "match": {
+              "location": "Create_Assignment_Students_StepDefs.iClickMyGradesButton()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 31697300,
+              "status": "passed"
+            },
+            "line": 42,
+            "name": "I should see Quiz single-choice questions graded automaticaly and Status: FAILED",
+            "match": {
+              "location": "Create_Assignment_Students_StepDefs.iShouldSeeQuizSingleChoiceQuestionsGradedAutomaticalyAndStatusFAILED()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@CreateAssignementStudents"
+          },
+          {
+            "name": "@Quiz_with_single-choice_question_graded_automatically:FAILED"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-08-19T20:24:03.528Z",
+        "before": [
+          {
+            "result": {
+              "duration": 1011257500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.scenarioStart()"
+            }
+          }
+        ],
+        "line": 45,
+        "name": "4",
+        "description": "",
+        "id": "create-assignement-students;4",
+        "after": [
+          {
+            "result": {
+              "duration": 600155800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.scenarioEnd(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 376300700,
+              "status": "passed"
+            },
+            "line": 46,
+            "name": "I open page \"http://ask-stage.portnov.com/\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"http://ask-stage.portnov.com/\"",
+                  "offset": 12
+                }
+              ],
+              "location": "Create_Assignment_Students_StepDefs.iOpen(String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2178719100,
+              "status": "passed"
+            },
+            "line": 47,
+            "name": "I log in as Teacher",
+            "match": {
+              "location": "Create_Assignment_Students_StepDefs.iLogInAsTeacher()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 12102467300,
+              "status": "passed"
+            },
+            "line": 48,
+            "name": "I assign Test quiz single-choice question: PASSED to Student",
+            "match": {
+              "location": "Create_Assignment_Students_StepDefs.iAssignTestQuizSingleChoiceQuestionPASSEDToStudent()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3149240400,
+              "status": "passed"
+            },
+            "line": 49,
+            "name": "I log in as Student",
+            "match": {
+              "location": "Create_Assignment_Students_StepDefs.iLogInAsStudent()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2055399300,
+              "status": "passed"
+            },
+            "line": 50,
+            "name": "I click My Assigments button",
+            "match": {
+              "location": "Create_Assignment_Students_StepDefs.iClickMyAssigmentsButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 43765900,
+              "status": "passed"
+            },
+            "line": 51,
+            "name": "I click Go to Assessment button",
+            "match": {
+              "location": "Create_Assignment_Students_StepDefs.iClickGoToAssessmentButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 36722500,
+              "status": "passed"
+            },
+            "line": 52,
+            "name": "I select Correct radio button for Question 1",
+            "match": {
+              "location": "Create_Assignment_Students_StepDefs.iSelectCorrectRadioButtonForQuestion()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1048019900,
+              "status": "passed"
+            },
+            "line": 53,
+            "name": "I click Submit my Answer button",
+            "match": {
+              "location": "Create_Assignment_Students_StepDefs.iClickSubmitMyAnswerButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 54201700,
+              "status": "passed"
+            },
+            "line": 54,
+            "name": "I click My Grades button",
+            "match": {
+              "location": "Create_Assignment_Students_StepDefs.iClickMyGradesButton()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 20854200,
+              "status": "passed"
+            },
+            "line": 55,
+            "name": "I should see Quiz single-choice questions graded automaticaly and Status: PASSED",
+            "match": {
+              "location": "Create_Assignment_Students_StepDefs.iShouldSeeQuizSingleChoiceQuestionsGradedAutomaticalyAndStatusPASSED()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@CreateAssignementStudents"
+          },
+          {
+            "name": "@Quiz_with_single-choice_question_graded_automatically:PASSED"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-08-19T20:24:26.211Z",
+        "before": [
+          {
+            "result": {
+              "duration": 1024300200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.scenarioStart()"
+            }
+          }
+        ],
+        "line": 58,
+        "name": "5",
+        "description": "",
+        "id": "create-assignement-students;5",
+        "after": [
+          {
+            "result": {
+              "duration": 608130400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.scenarioEnd(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 456786100,
+              "status": "passed"
+            },
+            "line": 59,
+            "name": "I open page \"http://ask-stage.portnov.com/\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"http://ask-stage.portnov.com/\"",
+                  "offset": 12
+                }
+              ],
+              "location": "Create_Assignment_Students_StepDefs.iOpen(String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2174110600,
+              "status": "passed"
+            },
+            "line": 60,
+            "name": "I log in as Teacher",
+            "match": {
+              "location": "Create_Assignment_Students_StepDefs.iLogInAsTeacher()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 12165072900,
+              "status": "passed"
+            },
+            "line": 61,
+            "name": "I assign Test quiz multiple-choice question: FAILED to Student",
+            "match": {
+              "location": "Create_Assignment_Students_StepDefs.iAssignTestQuizMultipleChoiceQuestionFAILEDToStudent()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3156860000,
+              "status": "passed"
+            },
+            "line": 62,
+            "name": "I log in as Student",
+            "match": {
+              "location": "Create_Assignment_Students_StepDefs.iLogInAsStudent()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2058582400,
+              "status": "passed"
+            },
+            "line": 63,
+            "name": "I click My Assigments button",
+            "match": {
+              "location": "Create_Assignment_Students_StepDefs.iClickMyAssigmentsButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 50939700,
+              "status": "passed"
+            },
+            "line": 64,
+            "name": "I click Go to Assessment button",
+            "match": {
+              "location": "Create_Assignment_Students_StepDefs.iClickGoToAssessmentButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 37476300,
+              "status": "passed"
+            },
+            "line": 65,
+            "name": "I select Incorrect check-box for Question 1",
+            "match": {
+              "location": "Create_Assignment_Students_StepDefs.iSelectIncorrectCheckBoxForQuestion1()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1059734100,
+              "status": "passed"
+            },
+            "line": 66,
+            "name": "I click Submit my Answer button",
+            "match": {
+              "location": "Create_Assignment_Students_StepDefs.iClickSubmitMyAnswerButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 52488800,
+              "status": "passed"
+            },
+            "line": 67,
+            "name": "I click My Grades button",
+            "match": {
+              "location": "Create_Assignment_Students_StepDefs.iClickMyGradesButton()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 30888100,
+              "status": "passed"
+            },
+            "line": 68,
+            "name": "I should see Quiz multiple-choice question graded automaticaly and Status: FAILED",
+            "match": {
+              "location": "Create_Assignment_Students_StepDefs.iShouldSeeQuizMultipleChoiceQuestionGradedAutomaticalyAndStatusFAILED()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@CreateAssignementStudents"
+          },
+          {
+            "name": "@Quiz_with_multiple-choice_question_graded_automatically:FAILED"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-08-19T20:24:49.092Z",
+        "before": [
+          {
+            "result": {
+              "duration": 1019639200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.scenarioStart()"
+            }
+          }
+        ],
+        "line": 71,
+        "name": "6",
+        "description": "",
+        "id": "create-assignement-students;6",
+        "after": [
+          {
+            "result": {
+              "duration": 611892600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.scenarioEnd(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 372330900,
+              "status": "passed"
+            },
+            "line": 72,
+            "name": "I open page \"http://ask-stage.portnov.com/\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"http://ask-stage.portnov.com/\"",
+                  "offset": 12
+                }
+              ],
+              "location": "Create_Assignment_Students_StepDefs.iOpen(String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2179369900,
+              "status": "passed"
+            },
+            "line": 73,
+            "name": "I log in as Teacher",
+            "match": {
+              "location": "Create_Assignment_Students_StepDefs.iLogInAsTeacher()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 12123776700,
+              "status": "passed"
+            },
+            "line": 74,
+            "name": "I assign Test quiz multiple-choice question: PASSED to Student",
+            "match": {
+              "location": "Create_Assignment_Students_StepDefs.iAssignTestQuizMultipleChoiceQuestionPassedoStudent()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3156429400,
+              "status": "passed"
+            },
+            "line": 75,
+            "name": "I log in as Student",
+            "match": {
+              "location": "Create_Assignment_Students_StepDefs.iLogInAsStudent()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2053808200,
+              "status": "passed"
+            },
+            "line": 76,
+            "name": "I click My Assigments button",
+            "match": {
+              "location": "Create_Assignment_Students_StepDefs.iClickMyAssigmentsButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 45122400,
+              "status": "passed"
+            },
+            "line": 77,
+            "name": "I click Go to Assessment button",
+            "match": {
+              "location": "Create_Assignment_Students_StepDefs.iClickGoToAssessmentButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 38923600,
+              "status": "passed"
+            },
+            "line": 78,
+            "name": "I select Correct check-box for Question 1",
+            "match": {
+              "location": "Create_Assignment_Students_StepDefs.iSelectCorrectCheckBoxForQuestion1()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1048665500,
+              "status": "passed"
+            },
+            "line": 79,
+            "name": "I click Submit my Answer button",
+            "match": {
+              "location": "Create_Assignment_Students_StepDefs.iClickSubmitMyAnswerButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 61384100,
+              "status": "passed"
+            },
+            "line": 80,
+            "name": "I click My Grades button",
+            "match": {
+              "location": "Create_Assignment_Students_StepDefs.iClickMyGradesButton()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 20680300,
+              "status": "passed"
+            },
+            "line": 81,
+            "name": "I should see Quiz multiple-choice question graded automaticaly and Status: PASSED",
+            "match": {
+              "location": "Create_Assignment_Students_StepDefs.iShouldSeeQuizMultipleChoiceQuestionGradedAutomaticalyAndStatusPASSED()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@CreateAssignementStudents"
+          },
+          {
+            "name": "@Quiz_with_multiple-choice_question_graded_automatically:PASSED"
+          }
+        ]
+      }
+    ],
+    "name": "Create Assignement Students",
+    "description": "",
+    "id": "create-assignement-students",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/Create_Assignment_Students.feature",
+    "tags": [
+      {
+        "name": "@CreateAssignementStudents",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  }
+]
